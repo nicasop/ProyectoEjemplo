@@ -7,3 +7,5 @@ Más lineas
 Documentación del desarrollador 2
 # Documentación 1 (Dev1)
 Documentación del desarrollador 1
+
+Cambio en el README
